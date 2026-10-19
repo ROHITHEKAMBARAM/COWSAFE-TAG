@@ -1,0 +1,11 @@
+# Keep only the libraries your code really uses, and delete the rest.
+numpy
+pandas
+shapely
+scikit-learn
+flask
+pytest
+# streamlit
+# fastapi
+# uvicorn
+# firebase-admin
