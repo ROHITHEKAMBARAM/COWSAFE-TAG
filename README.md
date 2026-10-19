@@ -56,12 +56,10 @@ Pulse strength, the daily limit and all health thresholds must be set with a vet
 
 ## Status
 
-Prototype. Add what is built and tested here.
-
+A COWSAFE TAG..IT IS USED TO ENSURE THE SAFETY OF ANIMALS..AND MONITOR THEIR HEALTH.
 ## Team
 
-Add your team name and members here.
-
+QAUNTUM CODERS .
 ## License
 
 MIT. See [LICENSE](LICENSE).
